@@ -1,3 +1,3 @@
 # BackUp_BD
 # Диаграмма БД
-![image](https://user-images.githubusercontent.com/86298391/157040635-22ef131b-7d94-4e09-bbfe-199e443c5ac2.png)
+![image](https://user-images.githubusercontent.com/86298391/157057521-9d197dc3-3a9a-4cf5-8331-0bf4db484a47.png)
